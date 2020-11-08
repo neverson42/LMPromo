@@ -1,7 +1,7 @@
 {
   "name": "LMPromo",
   "version": "0.0.1",
-  "description": "Reports Lords Mobile promo codes listed at https://lordsmobile.fandom.com/wiki/Promotion_Codes on command !promo",
+  "description": "Reports Lords Mobile promo codes listed at https://lordsmobile.fandom.com/wiki/Promotion_Codes on command !promo\n\nMAJOR thank you to Nekiplay for hosting the active codes on his server. Check out his Lords Mobile API!  https://github.com/Nekiplay",
   "main": "LMPromo.js",
   "dependencies": {
     "discord.js": "^12.2.0"
